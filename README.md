@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Holopin Badges:
+### Holopin Badges:
 [![@anakhan's Holopin board](https://holopin.me/anakhan)](https://holopin.io/@anakhan)
