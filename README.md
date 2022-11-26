@@ -17,14 +17,11 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: She/Her/Hers
 
-- 🔭 I’m currently working on **Web development.**
+- 🔭 I’m currently working on **Web development projects.**
 
 - 🌱 I’m currently learning **React and NodeJs.**
 
 - 📫 How to reach me **anakhan00328@gmail.com**
-
-### Holopin Badges:
-[![@anakhan's Holopin board](https://holopin.me/anakhan)](https://holopin.io/@anakhan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,4 +45,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ana-khan200&label=Profile%20views&color=0e75b6&style=flat" alt="ana-khan200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ana-khan200" alt="ana-khan200" /></a> </p>
+
+### Holopin Badges:
+[![@anakhan's Holopin board](https://holopin.me/anakhan)](https://holopin.io/@anakhan)
 
