@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ana-khan200&label=Profile%20views&color=0e75b6&style=flat" alt="ana-khan200" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ana-khan200" alt="ana-khan200" /></a> </p>
+- 😄 Pronouns: She/Her/Hers
 
 - 🔭 I’m currently working on **Web development.**
 
@@ -47,5 +48,3 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ana-khan200&" alt="ana-khan200" /></p>
 
-### Holopin Badges:
-[![@anakhan's Holopin board](https://holopin.me/anakhan)](https://holopin.io/@anakhan)
