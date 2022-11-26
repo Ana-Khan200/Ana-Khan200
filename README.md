@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ana-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-khan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ana_khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ana_khan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/a_11_anakhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_11_anakhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anakhan00328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anakhan00328" height="30" width="40" /></a>
