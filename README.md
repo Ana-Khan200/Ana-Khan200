@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ana Khan</h1>
-<h3 align="center">A passionate individual from India!</h3>
+<h3 align="center">A dedicated tech enthusiast from India. </h3>
 
 - 😄 Pronouns: She/Her/Hers
 
